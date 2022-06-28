@@ -1,3 +1,33 @@
+commit 45d83cf122ee23e44591db05fd11ff4ba01b515b
+Author: SAM <loboabel.cronox@gmail.com>
+Date:   Tue Jun 28 12:18:31 2022 -0500
+
+    Nuevos cambios a historia.txt
+
+commit c9518f1795d29b26043817abcf64cfbc6306f0cd
+Author: SAM <loboabel.cronox@gmail.com>
+Date:   Tue Jun 28 12:09:09 2022 -0500
+
+    Agregue el archivo hisstoria.txt
+
+commit 1a1b4378d950c4b7404c731b473479a6637846f3
+Author: SAM <loboabel.cronox@gmail.com>
+Date:   Tue Jun 28 12:02:35 2022 -0500
+
+    agregue historia.txt
+
+commit 997b0a997ab81a755e1a10b07895eaac87641f29
+Author: SAM <loboabel.cronox@gmail.com>
+Date:   Tue Jun 28 11:53:30 2022 -0500
+
+    cambie mi descriptcióm
+
+commit b2ef25c4c91bcc6ac66240b587c5350bb30aa7ea
+Author: SAM <loboabel.cronox@gmail.com>
+Date:   Tue Jun 28 11:41:35 2022 -0500
+
+    agregue lo genial que soy
+
 commit 754ab50236e3c59477eb57e5d02ad724372a44ee
 Author: SAM <loboabel.cronox@gmail.com>
 Date:   Tue Jun 28 11:34:08 2022 -0500
