@@ -2,9 +2,21 @@ Nombre: José samuel Rodrgígues Granja.
 Edad: 28 años.
 Ciudad:  Soledad de Gracianos Sanchez.
 Estado civil: soltero.
+Edad: 28 años.
+Religion: Agnostico.
 
+Padre: Jaime Antonio Rodriguez Granja.
+Madre: Maria Guadalupe Granja Jalomo
+
+Hermanos :
+Itzel Alejandra Rodrgígues Granja
+Jaime Rodriguez Granja.
+
+Carrera: licenciado en historia.
+Estdudios actuales: Desarrollo Web.
 
 Histoira:
-Naci el 10 de mayo de 1994.
 Soy licenciado en historia, estudio desarrollo web y soy maestro en un colegio de mi ciudad.
 Me hustan los vedeokiegos, el cine y la literatura.
+Mi tesis se titual "Consolidación y transformación de las milicias hispano indigenas: de la caída de tenochtitlan
+a la guerra del Mixtón 1521- 1542".
