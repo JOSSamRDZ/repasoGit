@@ -1,0 +1,10 @@
+Nombre: José samuel Rodrgígues Granja. 
+Edad: 28 años.
+Ciudad:  Soledad de Gracianos Sanchez.
+Estado civil: soltero.
+
+
+Histoira:
+Naci el 10 de mayo de 1994.
+Soy licenciado en historia, estudio desarrollo web y soy maestro en un colegio de mi ciudad.
+Me hustan los vedeokiegos, el cine y la literatura.
