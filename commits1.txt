@@ -1,0 +1,29 @@
+commit 754ab50236e3c59477eb57e5d02ad724372a44ee
+Author: SAM <loboabel.cronox@gmail.com>
+Date:   Tue Jun 28 11:34:08 2022 -0500
+
+    cambios para reflejar la edad correcta
+
+commit e2d34bac8f00a9de6e258a0a9331ffea28a55614
+Author: SAM <loboabel.cronox@gmail.com>
+Date:   Tue Jun 28 09:30:44 2022 -0500
+
+    miVida v4
+
+commit e274d93f8b46297701109f92add435c09e34404e
+Author: SAM <loboabel.cronox@gmail.com>
+Date:   Tue Jun 28 09:26:39 2022 -0500
+
+    miVita.txt v3
+
+commit 6bb077ffbdf9d126911739b4c747fe4eadc349eb
+Author: SAM <loboabel.cronox@gmail.com>
+Date:   Tue Jun 28 09:18:32 2022 -0500
+
+    miVida.text v2
+
+commit b141d32d9bfcc14e07e4f396272bb72a21820bd8
+Author: SAM <loboabel.cronox@gmail.com>
+Date:   Tue Jun 28 09:14:39 2022 -0500
+
+    mi primer commit
