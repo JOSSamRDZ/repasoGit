@@ -1,8 +1,71 @@
+commit fa60549aae8dadfddfad49145c0c6793e57d6406
+Author: SAM <loboabel.cronox@gmail.com>
+Date:   Fri Jul 1 08:50:22 2022 -0500
+
+    cmbios al proyecto de html
+
+ index.html        |  7 +++++--
+ style/estilos.css | 13 +++++++++----
+ 2 files changed, 14 insertions(+), 6 deletions(-)
+
+commit 34a98eb0cef3b13d33a3269b08710a090648529d
+Author: SAM <loboabel.cronox@gmail.com>
+Date:   Wed Jun 29 10:26:14 2022 -0500
+
+    Actualice indexLog
+
+ indexLog.txt | 131 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 131 insertions(+)
+
+commit df4aeaf0d5ad58ecc4fa889a70c382ff70b80ec2
+Author: SAM <loboabel.cronox@gmail.com>
+Date:   Wed Jun 29 10:25:08 2022 -0500
+
+    agregue un proyeto html
+
+ index.html        |  13 +++++-
+ indexLog.txt      | 119 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ script/script.js  |   3 ++
+ style/estilos.css |   5 +++
+ 4 files changed, 138 insertions(+), 2 deletions(-)
+
+commit c45db75f2f0e2706ed39b3a47ea9854f48faf881
+Author: SAM <loboabel.cronox@gmail.com>
+Date:   Wed Jun 29 09:53:57 2022 -0500
+
+    agregue un proyeto html
+
+ index.html        | 13 +++++++++++++
+ script/script.js  |  0
+ style/estilos.css |  0
+ 3 files changed, 13 insertions(+)
+
+commit b4689dae9d03fa4f60d7d78eaddc099f264e717c
+Author: SAM <loboabel.cronox@gmail.com>
+Date:   Wed Jun 29 09:34:02 2022 -0500
+
+    algunas lineas fuero agregadas
+
+ historia.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 0926b5f28e9209cc947f24e261078f060c53bf5a
+Author: SAM <loboabel.cronox@gmail.com>
+Date:   Tue Jun 28 12:19:37 2022 -0500
+
+    modifique el index de log
+
+ commits1.txt | 30 ++++++++++++++++++++++++++++++
+ 1 file changed, 30 insertions(+)
+
 commit 45d83cf122ee23e44591db05fd11ff4ba01b515b
 Author: SAM <loboabel.cronox@gmail.com>
 Date:   Tue Jun 28 12:18:31 2022 -0500
 
     Nuevos cambios a historia.txt
+
+ historia.txt | 16 ++++++++++++++--
+ 1 file changed, 14 insertions(+), 2 deletions(-)
 
 commit c9518f1795d29b26043817abcf64cfbc6306f0cd
 Author: SAM <loboabel.cronox@gmail.com>
@@ -10,11 +73,17 @@ Date:   Tue Jun 28 12:09:09 2022 -0500
 
     Agregue el archivo hisstoria.txt
 
+ historia.txt | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
 commit 1a1b4378d950c4b7404c731b473479a6637846f3
 Author: SAM <loboabel.cronox@gmail.com>
 Date:   Tue Jun 28 12:02:35 2022 -0500
 
     agregue historia.txt
+
+ historia.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
 
 commit 997b0a997ab81a755e1a10b07895eaac87641f29
 Author: SAM <loboabel.cronox@gmail.com>
@@ -22,11 +91,18 @@ Date:   Tue Jun 28 11:53:30 2022 -0500
 
     cambie mi descriptcióm
 
+ miVida.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
 commit b2ef25c4c91bcc6ac66240b587c5350bb30aa7ea
 Author: SAM <loboabel.cronox@gmail.com>
 Date:   Tue Jun 28 11:41:35 2022 -0500
 
     agregue lo genial que soy
+
+ commits1.txt | 29 +++++++++++++++++++++++++++++
+ miVida.txt   |  1 +
+ 2 files changed, 30 insertions(+)
 
 commit 754ab50236e3c59477eb57e5d02ad724372a44ee
 Author: SAM <loboabel.cronox@gmail.com>
@@ -34,11 +110,17 @@ Date:   Tue Jun 28 11:34:08 2022 -0500
 
     cambios para reflejar la edad correcta
 
+ miVida.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
 commit e2d34bac8f00a9de6e258a0a9331ffea28a55614
 Author: SAM <loboabel.cronox@gmail.com>
 Date:   Tue Jun 28 09:30:44 2022 -0500
 
     miVida v4
+
+ miVida.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
 
 commit e274d93f8b46297701109f92add435c09e34404e
 Author: SAM <loboabel.cronox@gmail.com>
@@ -46,14 +128,23 @@ Date:   Tue Jun 28 09:26:39 2022 -0500
 
     miVita.txt v3
 
+ miVida.txt | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
 commit 6bb077ffbdf9d126911739b4c747fe4eadc349eb
 Author: SAM <loboabel.cronox@gmail.com>
 Date:   Tue Jun 28 09:18:32 2022 -0500
 
     miVida.text v2
 
+ miVida.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
 commit b141d32d9bfcc14e07e4f396272bb72a21820bd8
 Author: SAM <loboabel.cronox@gmail.com>
 Date:   Tue Jun 28 09:14:39 2022 -0500
 
     mi primer commit
+
+ miVida.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
