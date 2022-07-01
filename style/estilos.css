@@ -1,5 +1,10 @@
 body{
-    color: #4d9a05;
-    font-family: 'Times New Roman', Times, serif;
-    text-align: center;
+    color: black;
+    text-align: left;
 } 
+
+.contaier{
+    width: 70%;
+    background-color:#007acc;
+
+}
